@@ -1,0 +1,17 @@
+*** Changelog - Pressa Website Template ***
+
+2014.02.12 - version 1.0
+	* First release!
+
+2014.02.26 - version 1.2
+	* Added new mega drop down menu (FH Mega Menu)
+	* Fixed some css errors
+
+2014.03.07 - version 1.3
+	* Fixed pricing table (responsive)
+
+2014.04.23 - version 1.4
+	* Fixed parallax background on Chrome and Safari
+
+2015.07.10 - version 1.4.1
+	* Update The scripts
